@@ -7,7 +7,7 @@ define('LARAVEL_START', microtime(true));
 
 /*
 |--------------------------------------------------------------------------
-|SebastianUrregoestuvoaqui .l.
+|SebastianUrregoestuvo aqui .l.
 |--------------------------------------------------------------------------
 |
 | If the application is in maintenance / demo mode via the "down" command
